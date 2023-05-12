@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.Item-todo{
+    width: 240px;
+    background-color: coral;
+    border: 1px solid;
+}
+.item-delete{
+    width: 100%;
+    cursor: pointer;
+    color: #c30909;
+}
+.strike{
+    width: 100%;
+    color: yellow;
+    cursor: pointer;
+    word-break: break-all;
+}
+.item-text{
+    width: 100%;
+    color: blue;
+    cursor: pointer;
+    word-break: break-all;
+}

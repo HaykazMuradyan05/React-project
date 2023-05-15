@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.yndanur{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.paruyr{
+    width: 10%;
+    height: 100px;
+    
+}
+.hovhanes{
+    width: 10%;
+    height: 100px;
+}
+.kaputikyan{
+    width: 10%;
+    height: 100px;
+}
+img{
+    width: 100%;
+}

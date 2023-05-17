@@ -28,7 +28,7 @@ export default function ContactPage(){
         ])
     }
     return(
-         <div>
+         <div className='flex'>
             <div>
                 <h1>Cank: {todos.length}</h1>
             </div>
